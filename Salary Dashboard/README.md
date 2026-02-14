@@ -4,7 +4,9 @@
 
 ## Introduction
 
-This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
+As someone new to the data industry, I created this Data Jobs Salary Dashboard to help myself and other aspiring professionals explore median salaries across different data roles. The aim is to support more informed career decisions by considering not only pay, but also fulfillment, flexibility, and the potential to make meaningful impact.
+
+The dashboard also serves as a practical resource for job seekers during contract negotiations, helping them benchmark fair compensation based on their skills. In addition, it highlights the top platforms where specific data roles are most frequently advertised, making the job search more focused and strategic.
 
 The data is from an Excel course I took on YouTube taught by Luke Barousse, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
